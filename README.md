@@ -8,7 +8,7 @@ This project visualizes and analyzes e-commerce sales data using **Microsoft Exc
 The dashboard provides key insights into sales, profits, quantity sold, number of orders, profit margins, and category/state-level performances.
 
 <p align="center">
-  <img src="Images/ecommerce sales db.png" alt="E-commerce Sales Analysis Dashboard" width="800"/>
+  <img src="Images/ecommerce-sales-db.png" alt="E-commerce Sales Analysis Dashboard" width="800"/>
 </p>
 
 
